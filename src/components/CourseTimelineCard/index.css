@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.course-container {
+  display: flex;
+  justify-content: space-between;
+}
+.duration-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
